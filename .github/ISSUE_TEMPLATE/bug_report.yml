@@ -1,0 +1,50 @@
+name: "Relatar problema no Valorum"
+description: "Falhas de instalação, atualização ou funcionamento do aplicativo"
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Não informe senhas, CPF, extratos, registros financeiros, tokens ou arquivos de backup.
+  - type: input
+    id: version
+    attributes:
+      label: "Versão do Valorum"
+      placeholder: "Ex.: 1.0.0-beta.7"
+    validations:
+      required: true
+  - type: input
+    id: android
+    attributes:
+      label: "Android e aparelho"
+      placeholder: "Ex.: Android 15 — Motorola Edge 30 Ultra"
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: "Área afetada"
+      options:
+        - Instalação ou atualização
+        - Login e autenticação
+        - Movimentações financeiras
+        - Metas ou relatórios
+        - Calendário, diário ou notas
+        - Interface e temas
+        - Outra
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Passos para reproduzir"
+      description: "Explique o procedimento sem incluir informações pessoais."
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: "Resultado esperado e comportamento observado"
+    validations:
+      required: true
