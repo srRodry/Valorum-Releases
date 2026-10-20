@@ -1,0 +1,50 @@
+name: Verify public update feed
+on:
+  push:
+    branches: [main]
+    paths: ['update.json']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  integrity:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate catalog metadata
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -f update.json
+          python3 - <<'PY'
+          import json, os, re
+          from pathlib import Path
+          u = json.loads(Path('update.json').read_text(encoding='utf-8'))
+          name, tag = u['version_name'], u['tag']
+          assert re.fullmatch(r'\d+\.\d+\.\d+(?:-beta\.\d+)?', name)
+          assert tag == 'v' + name
+          assert isinstance(u['version_code'], int) and 0 < u['version_code'] < 2147483647
+          assert isinstance(u['size_bytes'], int) and 0 < u['size_bytes'] <= 100 * 1024 * 1024
+          assert re.fullmatch(r'[a-f0-9]{64}', u['sha256'])
+          assert len(u.get('notes', '')) <= 4000
+          assert u['apk_url'] == (
+              f"https://github.com/srRodry/Valorum-Releases/releases/download/{tag}/Valorum-{name}.apk"
+          )
+          with open(os.environ['GITHUB_ENV'], 'a') as env:
+              env.write(f"TAG={tag}\nAPK=Valorum-{name}.apk\n")
+              env.write(f"EXPECTED_SHA={u['sha256']}\nEXPECTED_BYTES={u['size_bytes']}\n")
+          PY
+      - name: Download Release APK and verify integrity
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p artifacts
+          gh release download "$TAG" -R "$GH_REPO" -p "$APK" -D artifacts
+          test -f "artifacts/$APK"
+          echo "$EXPECTED_SHA  artifacts/$APK" | sha256sum -c -
+          test "$(stat -c %s "artifacts/$APK")" = "$EXPECTED_BYTES"
+          gh release view "$TAG" -R "$GH_REPO" --json url,name,isDraft,assets
