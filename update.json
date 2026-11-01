@@ -1,9 +1,9 @@
 {
-  "tag": "v1.0.0-beta.19",
-  "version_name": "1.0.0-beta.19",
-  "version_code": 57,
-  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v1.0.0-beta.19/Valorum-1.0.0-beta.19.apk",
-  "sha256": "f9659c37588a428ba0e4eebffb146d63cdbc65f7d56d89df9fb769fe7c9d9e2b",
+  "tag": "v1.0.0-beta.20",
+  "version_name": "1.0.0-beta.20",
+  "version_code": 58,
+  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v1.0.0-beta.20/Valorum-1.0.0-beta.20.apk",
+  "sha256": "a4b1fea8e2cb05bffd264e0b42c0ba2e0b7e98cba73f38e407f3199765c8e147",
   "size_bytes": 15292951,
-  "notes": "Abertura adaptada ao tema e bloqueio opcional com biometria ou senha do aparelho em Preferências. No botão flutuante, toque para editar e segure para alternar ganhos/gastos."
+  "notes": "Semanas completas de segunda a domingo, sem cortes na virada do mês. Resumo mensal separado das semanas e contornos mais suaves nos oito temas."
 }
