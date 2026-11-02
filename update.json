@@ -1,9 +1,9 @@
 {
-  "tag": "v1.0.0-beta.20",
-  "version_name": "1.0.0-beta.20",
-  "version_code": 58,
-  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v1.0.0-beta.20/Valorum-1.0.0-beta.20.apk",
-  "sha256": "a4b1fea8e2cb05bffd264e0b42c0ba2e0b7e98cba73f38e407f3199765c8e147",
+  "tag": "v1.0.0-beta.21",
+  "version_name": "1.0.0-beta.21",
+  "version_code": 59,
+  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v1.0.0-beta.21/Valorum-1.0.0-beta.21.apk",
+  "sha256": "c3fa93488640b2eb126fb4c48f5d51c0c62f757fa20d3d5123b34b5f9118a252",
   "size_bytes": 15292951,
-  "notes": "Semanas completas de segunda a domingo, sem cortes na virada do mês. Resumo mensal separado das semanas e contornos mais suaves nos oito temas."
+  "notes": "Botão flutuante independente do bloqueio do aplicativo: toque para editar sem senha, segure para alternar ganhos e gastos. Totais, centavos, categorias e arraste disponíveis normalmente."
 }
