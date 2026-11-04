@@ -1,9 +1,9 @@
 {
-  "tag": "v2.0.0-beta.1",
-  "version_name": "2.0.0-beta.1",
-  "version_code": 60,
-  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.1/Valorum-2.0.0-beta.1.apk",
-  "sha256": "ee8c1669c5e9e33f02c242fad0b8bd89f02ed51b3fa5699170ebb37f267b797f",
-  "size_bytes": 15374875,
-  "notes": "Valorum 2.0 Pro: nova Home, orçamentos e análises. PDFs por área e completo com período diário, semanal, mensal ou anual. Prints liberados; bloqueio do app e flutuante independente preservados. Atualize sem desinstalar."
+  "tag": "v2.0.0-beta.2",
+  "version_name": "2.0.0-beta.2",
+  "version_code": 61,
+  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.2/Valorum-2.0.0-beta.2.apk",
+  "sha256": "da1be6c0abfbd40decd9476b856f32678464d1bba449192679c06798d26f8a22",
+  "size_bytes": 15391255,
+  "notes": "Beta 2: cabeçalho compacto e adaptável, histórico de caixas com resultado, contornos suaves, análises e diário refinados. PDFs e prints liberados; bloqueio do app, semanas completas e flutuante independente preservados. Atualize sem desinstalar."
 }
