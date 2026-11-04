@@ -1,9 +1,9 @@
 {
-  "tag": "v2.0.0-beta.4",
-  "version_name": "2.0.0-beta.4",
-  "version_code": 63,
-  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.4/Valorum-2.0.0-beta.4.apk",
-  "sha256": "50e95b6579f664ba6cd834d5064ce86535c8c477f94c984b99c6d83c765b1a1f",
-  "size_bytes": 15577496,
-  "notes": "Beta 4: menu com quatro opções, atalhos sem redundância, PDFs unificados e templo com mais contraste. Dados, backups e flutuante independente preservados. Atualize sem desinstalar."
+  "tag": "v2.0.0-beta.5",
+  "version_name": "2.0.0-beta.5",
+  "version_code": 64,
+  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.5/Valorum-2.0.0-beta.5.apk",
+  "sha256": "343f0fa7c3a841a5884ca717ae72db5198004b21680dcb506dfe459f47e46c03",
+  "size_bytes": 15577500,
+  "notes": "Beta 5: Home restaurada com os quatro atalhos originais. Templo maior, com profundidade à direita e transparência para a esquerda. Menu compacto preservado. Atualize sem desinstalar."
 }
