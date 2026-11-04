@@ -1,9 +1,9 @@
 {
-  "tag": "v2.0.0-beta.3",
-  "version_name": "2.0.0-beta.3",
-  "version_code": 62,
-  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.3/Valorum-2.0.0-beta.3.apk",
-  "sha256": "e29869ec340ef357baa1c65c5a53b794a3a838baf3c7cbab6e0211dd5c485104",
-  "size_bytes": 15577500,
-  "notes": "Beta 3: cantos do cartão principal corrigidos, templo clássico e vidro com arredondamento consistente. PDFs, capturas e flutuante independente preservados. Atualize sem desinstalar."
+  "tag": "v2.0.0-beta.4",
+  "version_name": "2.0.0-beta.4",
+  "version_code": 63,
+  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.4/Valorum-2.0.0-beta.4.apk",
+  "sha256": "50e95b6579f664ba6cd834d5064ce86535c8c477f94c984b99c6d83c765b1a1f",
+  "size_bytes": 15577496,
+  "notes": "Beta 4: menu com quatro opções, atalhos sem redundância, PDFs unificados e templo com mais contraste. Dados, backups e flutuante independente preservados. Atualize sem desinstalar."
 }
