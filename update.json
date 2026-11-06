@@ -1,9 +1,9 @@
 {
-  "tag": "v2.0.0-beta.7",
-  "version_name": "2.0.0-beta.7",
-  "version_code": 66,
-  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.7/Valorum-2.0.0-beta.7.apk",
-  "sha256": "ba4269f850e40e2ee4f0736b5e78413d6bf9b2b2edc37c750953d46d6b74340c",
-  "size_bytes": 15799705,
-  "notes": "Beta 7: templo exatamente 8% mais largo, com a mesma altura. Removidos os contornos decorativos do cartão principal e de outros painéis. Vidro, atalhos e navegação preservados. Atualize sem desinstalar."
+  "tag": "v2.0.0-beta.8",
+  "version_name": "2.0.0-beta.8",
+  "version_code": 67,
+  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.8/Valorum-2.0.0-beta.8.apk",
+  "sha256": "9c0732bb9a797c993bc48ce25b6843e3d230c6e70faebdf87ab353114bbc8ef8",
+  "size_bytes": 15832473,
+  "notes": "Beta 8: Home mais compacta, gráfico com receitas/despesas/resultado, categorias recolhidas e contas mensais recorrentes com lembretes e backup. O saldo muda somente ao confirmar pagamento ou recebimento. Atualize sem desinstalar."
 }
