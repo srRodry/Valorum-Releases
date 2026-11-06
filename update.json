@@ -1,9 +1,9 @@
 {
-  "tag": "v2.0.0-beta.8",
-  "version_name": "2.0.0-beta.8",
-  "version_code": 67,
-  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.8/Valorum-2.0.0-beta.8.apk",
-  "sha256": "9c0732bb9a797c993bc48ce25b6843e3d230c6e70faebdf87ab353114bbc8ef8",
+  "tag": "v2.0.0-beta.9",
+  "version_name": "2.0.0-beta.9",
+  "version_code": 68,
+  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.9/Valorum-2.0.0-beta.9.apk",
+  "sha256": "10ed39e3bd0354aaa8e8eb69c86a7eac98cb8a2a01331e302f7ef96d10561019",
   "size_bytes": 15832473,
-  "notes": "Beta 8: Home mais compacta, gráfico com receitas/despesas/resultado, categorias recolhidas e contas mensais recorrentes com lembretes e backup. O saldo muda somente ao confirmar pagamento ou recebimento. Atualize sem desinstalar."
+  "notes": "Beta 9: refinamento da Home, margens e cabeçalhos alinhados, orçamento sem barra redundante e legenda mais discreta. Mantidos o templo, as três curvas, os temas e as contas mensais. Atualize sem desinstalar."
 }
