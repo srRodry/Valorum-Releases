@@ -104,7 +104,7 @@ def release_body(release, block):
         notes = body.strip()
     # Keep every existing release note outside the managed presentation block.
     header = f'''{BEGIN}
-<p align="center"><img src="{RAW}/assets/pixel-code.png" width="88" alt="Pixel Code"></p>
+<p align="center"><img src="{RAW}/assets/pixel-code.jpg" width="96" height="96" alt="Pixel Code"></p>
 
 ![Valorum — Pixel Code. Seu dinheiro. Mais conquistas.]({RAW}/assets/valorum-header.svg)
 

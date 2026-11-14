@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/pixel-code.png" width="88" alt="Monograma original da Pixel Code"></p>
+<p align="center"><img src="assets/pixel-code.jpg" width="96" height="96" alt="Monograma original da Pixel Code"></p>
 
 ![Valorum — Pixel Code. Seu dinheiro. Mais conquistas.](assets/valorum-header.svg)
 
