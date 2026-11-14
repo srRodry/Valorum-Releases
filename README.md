@@ -1,53 +1,68 @@
-# Valorum
+<p align="center"><img src="assets/pixel-code.png" width="88" alt="Monograma original da Pixel Code"></p>
 
-**Seu dinheiro. Mais conquistas.**
+![Valorum — Pixel Code. Seu dinheiro. Mais conquistas.](assets/valorum-header.svg)
 
-Distribuição oficial do **Valorum para Android**, desenvolvido pela **Pixel Code**.
+<p align="center"><strong>Organize suas finanças. Acompanhe suas conquistas.</strong><br>Um aplicativo da Pixel Code para finanças pessoais e a rotina de quem trabalha por conta própria.</p>
 
-O Valorum foi criado para organizar finanças pessoais e atividades de profissionais autônomos, reunindo movimentações, metas, relatórios, calendário, diário e anotações em uma interface personalizável.
+<!-- download:start -->
+<p align="center"><a href="https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.10/Valorum-2.0.0-beta.10.apk"><img src="https://raw.githubusercontent.com/srRodry/Valorum-Releases/main/assets/download-android.svg" width="300" alt="Baixar Valorum 2.0.0-beta.10 para Android"></a></p>
 
-## Downloads oficiais
+<p align="center"><strong>2.0.0-beta.10</strong> · Beta de testes · Android 8.0 ou superior · 15.8 MB</p>
 
-**[Consultar versões disponíveis](https://github.com/srRodry/Valorum-Releases/releases)**
+<p align="center"><a href="https://github.com/srRodry/Valorum-Releases/releases/tag/v2.0.0-beta.10">Detalhes deste lançamento</a> · <a href="https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.10/Valorum-2.0.0-beta.10.apk">Download direto do APK</a></p>
 
-Este repositório é dedicado **exclusivamente à distribuição de versões compiladas e assinadas**. O código-fonte de desenvolvimento é mantido separadamente e não faz parte deste repositório.
+Distribuição pelo GitHub. A publicação na Play Store está em preparação. O repositório e os downloads são públicos; compartilhar com um grupo pequeno não restringe o acesso.
 
-**Importante:** a criação deste repositório não significa que um APK já esteja disponível. Consulte a página de Releases; quando houver uma versão publicada, escolha o arquivo `Valorum-<versão>.apk` correspondente.
+[Notas da versão](https://github.com/srRodry/Valorum-Releases/releases/tag/v2.0.0-beta.10) · [Verificação SHA-256](https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.10/SHA256SUMS.txt)
 
-### Instalação no Android
+<details>
+<summary>Conferir a integridade do APK</summary>
 
-1. Abra a página de **Releases** e selecione a versão desejada.
-2. Na seção **Assets**, baixe o arquivo `.apk`.
-3. Abra o APK e confirme a instalação no Android. O sistema poderá solicitar autorização de instalação de aplicativos dessa origem.
-4. Em atualizações posteriores, mantenha a assinatura original; não desinstale o aplicativo para atualizar. **Faça backup dos seus dados antes de trocar versões.**
+SHA-256 do arquivo `Valorum-2.0.0-beta.10.apk`:
 
-O aplicativo oferece controles de receitas e despesas, relatórios, metas, calculadora, notas, diário, calendário e temas de aparência. Os recursos variam conforme a versão instalada.
+```text
+d961c99e76fdb64ed476f9b9364a420b06bba6298a4f5e7cbfaad26a0f4ce526
+```
 
-## Atualizações dentro do aplicativo
+</details>
+<!-- download:end -->
 
-O canal **GitHub** do Valorum está sendo preparado para identificar novas versões a partir do manifesto público `update.json`. Ele só aparecerá neste repositório após existir uma versão assinada e verificada disponível nos Releases.
+## Tudo começa com clareza
 
-- A atualização será oferecida apenas quando houver um `version_code` superior ao instalado.
-- O arquivo baixado será verificado antes de abrir o instalador do Android.
-- A instalação depende de confirmação do sistema; **não é silenciosa**.
-- A distribuição pela **Google Play** utilizará o mecanismo oficial de atualizações da loja, sem instalar APKs externos.
+| Seu dia a dia | No Valorum |
+| --- | --- |
+| Receitas e despesas | Acompanhe entradas, saídas e saldo. |
+| Rotina de trabalho | Registre valores no caixa e use o botão flutuante para anotações rápidas. |
+| Compromissos e objetivos | Organize contas, vencimentos e metas. |
+| Visão do dinheiro | Consulte gráficos e relatórios para entender seus resultados. |
+| Seu jeito de organizar | Personalize os temas e mantenha diário e notas no aplicativo. |
 
-Consulte a [especificação do catálogo de atualizações](docs/ATUALIZACOES.md).
+## Instale em poucos passos
 
-## Privacidade e proteção dos dados
+1. Toque em **Baixar para Android** e abra o arquivo `.apk` baixado.
+2. Se o Android solicitar, autorize a instalação para o navegador utilizado e confirme.
+3. Já usa o Valorum? Faça um backup `.valorum` protegido por senha e **instale por cima da versão atual, sem desinstalar**.
 
-Os registros financeiros, metas, diário e notas são armazenados localmente no aparelho, sem sincronização financeira automática. Operações de autenticação de conta podem exigir acesso à internet. O Valorum **não realiza transferências, depósitos ou investimentos**.
+No aplicativo, consulte **Mais ferramentas → Verificar atualizações** para buscar novas versões do canal GitHub. A instalação é confirmada pelo Android.
 
-A desinstalação pode apagar permanentemente os dados locais. Gere e guarde um backup `.valorum` protegido por senha; exportações CSV não substituem esse backup.
+[Guia de download e instalação](docs/DOWNLOADS.md) · [Histórico de versões](https://github.com/srRodry/Valorum-Releases/releases)
 
-**Segurança:** não publique senhas, extratos, registros financeiros, tokens, arquivos de backup ou informações de identificação pessoal nas Issues.
+## Participe da beta
 
-## Estado de desenvolvimento
+Esta distribuição é destinada ao grupo inicial de testes. Ao encontrar um problema, informe o modelo do celular, a versão do Android, a versão do Valorum e os passos para reproduzir. Oculte valores e dados pessoais das capturas.
 
-O aplicativo está em fase de **testes beta**. As versões de teste não devem ser tratadas como versões estáveis para dados insubstituíveis. Problemas específicos de aparelhos, falhas e regressões podem ocorrer.
+[Relatar um problema](https://github.com/srRodry/Valorum-Releases/issues/new/choose) · [Suporte por e-mail](mailto:pc.valorum@gmail.com)
 
-- [Histórico de versões](https://github.com/srRodry/Valorum-Releases/releases)
-- [Reportar problema técnico](https://github.com/srRodry/Valorum-Releases/issues/new/choose)
-- [Política de relato de vulnerabilidades](SECURITY.md)
+## Seus dados, com cuidado
 
-© Pixel Code. Todos os direitos reservados. Este repositório de distribuição não concede, por si só, uma licença de uso, redistribuição ou modificação do código-fonte.
+Os registros financeiros, metas, diário e notas ficam no aparelho, sem sincronização financeira automática. A autenticação pode exigir internet. Guarde seus backups: desinstalar o aplicativo pode apagar os dados locais; CSV não substitui o backup `.valorum`.
+
+O Valorum está em **fase beta** e pode apresentar falhas. Ele não realiza transferências, depósitos ou investimentos. Não publique senhas, extratos ou backups nas Issues; para vulnerabilidades, consulte a [política de segurança](SECURITY.md).
+
+[Privacidade](https://valorum-privacidade.saile-drigues-16.chatgpt.site/privacidade.html) · [Termos de uso](https://valorum-privacidade.saile-drigues-16.chatgpt.site/termos.html) · [Exclusão de conta](https://valorum-privacidade.saile-drigues-16.chatgpt.site/excluir-conta.html)
+
+---
+
+<p align="center"><strong>PIXEL CODE</strong><br>© Pixel Code. Todos os direitos reservados.</p>
+
+Este repositório distribui versões compiladas do Valorum. O código-fonte é mantido separadamente; esta publicação não concede licença de uso, redistribuição ou modificação do código-fonte.
