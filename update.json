@@ -1,9 +1,9 @@
 {
-  "tag": "v2.0.0-beta.10",
-  "version_name": "2.0.0-beta.10",
-  "version_code": 69,
-  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.10/Valorum-2.0.0-beta.10.apk",
-  "sha256": "d961c99e76fdb64ed476f9b9364a420b06bba6298a4f5e7cbfaad26a0f4ce526",
-  "size_bytes": 15832469,
-  "notes": "Beta 10: links de termos, privacidade e exclusão atualizados; validações de distribuição reforçadas. Mantidas as funções e os dados locais. Atualize sem desinstalar."
+  "tag": "v2.0.0-beta.11",
+  "version_name": "2.0.0-beta.11",
+  "version_code": 70,
+  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.11/Valorum-2.0.0-beta.11.apk",
+  "sha256": "98778d15660579b9422b684e75c0e70f17a1858fe26842ccaf53ca34acc73107",
+  "size_bytes": 15832473,
+  "notes": "Beta 11: efeito de vidro aprimorado em todos os temas, com reflexos suaves e bordas iluminadas. Atualize sem desinstalar para preservar os dados."
 }
