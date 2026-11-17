@@ -5,23 +5,23 @@
 <p align="center"><strong>Organize suas finanças. Acompanhe suas conquistas.</strong><br>Um aplicativo da Pixel Code para finanças pessoais e a rotina de quem trabalha por conta própria.</p>
 
 <!-- download:start -->
-<p align="center"><a href="https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.13/Valorum-2.0.0-beta.13.apk"><img src="https://raw.githubusercontent.com/srRodry/Valorum-Releases/main/assets/download-android.svg" width="300" alt="Baixar Valorum 2.0.0-beta.13 para Android"></a></p>
+<p align="center"><a href="https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.14/Valorum-2.0.0-beta.14.apk"><img src="https://raw.githubusercontent.com/srRodry/Valorum-Releases/main/assets/download-android.svg" width="300" alt="Baixar Valorum 2.0.0-beta.14 para Android"></a></p>
 
-<p align="center"><strong>2.0.0-beta.13</strong> · Beta de testes · Android 8.0 ou superior · 15.8 MB</p>
+<p align="center"><strong>2.0.0-beta.14</strong> · Beta estável · Android 8.0 ou superior · 15.8 MB</p>
 
-<p align="center"><a href="https://github.com/srRodry/Valorum-Releases/releases/tag/v2.0.0-beta.13">Detalhes deste lançamento</a> · <a href="https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.13/Valorum-2.0.0-beta.13.apk">Download direto do APK</a></p>
+<p align="center"><a href="https://github.com/srRodry/Valorum-Releases/releases/tag/v2.0.0-beta.14">Detalhes deste lançamento</a> · <a href="https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.14/Valorum-2.0.0-beta.14.apk">Download direto do APK</a></p>
 
 Distribuição pelo GitHub. A publicação na Play Store está em preparação. O repositório e os downloads são públicos; compartilhar com um grupo pequeno não restringe o acesso.
 
-[Notas da versão](https://github.com/srRodry/Valorum-Releases/releases/tag/v2.0.0-beta.13) · [Verificação SHA-256](https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.13/SHA256SUMS.txt)
+[Notas da versão](https://github.com/srRodry/Valorum-Releases/releases/tag/v2.0.0-beta.14) · [Verificação SHA-256](https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.14/SHA256SUMS.txt)
 
 <details>
 <summary>Conferir a integridade do APK</summary>
 
-SHA-256 do arquivo `Valorum-2.0.0-beta.13.apk`:
+SHA-256 do arquivo `Valorum-2.0.0-beta.14.apk`:
 
 ```text
-65eec45f9bad0f021db14f32111236a7c3415f714adeb36944f1adeca053a089
+3555ca7a7be7b21f1580747b3e18f26b37c19c53ada5a2ec09b894b7226b981e
 ```
 
 </details>
