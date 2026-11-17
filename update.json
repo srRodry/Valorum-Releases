@@ -1,9 +1,9 @@
 {
-  "tag": "v2.0.0-beta.12",
-  "version_name": "2.0.0-beta.12",
-  "version_code": 71,
-  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.12/Valorum-2.0.0-beta.12.apk",
-  "sha256": "159b8945c4f2914eaa1aee633e845ea383429e504d7a920cd53f868a140ce3ec",
+  "tag": "v2.0.0-beta.13",
+  "version_name": "2.0.0-beta.13",
+  "version_code": 72,
+  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.13/Valorum-2.0.0-beta.13.apk",
+  "sha256": "65eec45f9bad0f021db14f32111236a7c3415f714adeb36944f1adeca053a089",
   "size_bytes": 15832469,
-  "notes": "Beta 12: bloco principal com o mesmo acabamento de vidro dos demais cartões; reflexos e bordas iluminadas 15% mais suaves em todos os temas. Atualize sem desinstalar para preservar os dados."
+  "notes": "Beta 13: vidro com maior definição nos temas claros; contraste dos cartões e ondulações do tema Rosa Imperial corrigidos. Atualize sem desinstalar para preservar os dados."
 }
