@@ -1,9 +1,9 @@
 {
-  "tag": "v2.0.0-beta.11",
-  "version_name": "2.0.0-beta.11",
-  "version_code": 70,
-  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.11/Valorum-2.0.0-beta.11.apk",
-  "sha256": "98778d15660579b9422b684e75c0e70f17a1858fe26842ccaf53ca34acc73107",
-  "size_bytes": 15832473,
-  "notes": "Beta 11: efeito de vidro aprimorado em todos os temas, com reflexos suaves e bordas iluminadas. Atualize sem desinstalar para preservar os dados."
+  "tag": "v2.0.0-beta.12",
+  "version_name": "2.0.0-beta.12",
+  "version_code": 71,
+  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.12/Valorum-2.0.0-beta.12.apk",
+  "sha256": "159b8945c4f2914eaa1aee633e845ea383429e504d7a920cd53f868a140ce3ec",
+  "size_bytes": 15832469,
+  "notes": "Beta 12: bloco principal com o mesmo acabamento de vidro dos demais cartões; reflexos e bordas iluminadas 15% mais suaves em todos os temas. Atualize sem desinstalar para preservar os dados."
 }
