@@ -55,7 +55,8 @@ def validate(feed, release):
 
 
 def download_block(feed, release, asset):
-    status = "Beta de testes" if release["prerelease"] else "Versão publicada"
+    status = ("Beta de testes" if release["prerelease"] else
+              "Beta estável" if "-beta." in feed["version_name"] else "Versão publicada")
     checksum = next((a["browser_download_url"] for a in release["assets"]
                      if a["name"] == "SHA256SUMS.txt" and a["state"] == "uploaded"), None)
     checksum_link = f" · [Verificação SHA-256]({checksum})" if checksum else ""
