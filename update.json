@@ -1,9 +1,9 @@
 {
-  "tag": "v2.0.0-beta.15",
-  "version_name": "2.0.0-beta.15",
-  "version_code": 74,
-  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.15/Valorum-2.0.0-beta.15.apk",
-  "sha256": "8d8a8ed62060739006659546077e33169c8e6e4b586bb4246617515552b545b0",
-  "size_bytes": 15848853,
-  "notes": "Beta 15 Preview: gráficos de receitas e despesas separados para caixa diário, visão mensal do trabalho e Movimentações (dia/mês); botões Fechar caixa e Ativar botão flutuante alinhados. Versão de testes: faça backup e atualize sem desinstalar para preservar os dados."
+  "tag": "v2.0.0-beta.16",
+  "version_name": "2.0.0-beta.16",
+  "version_code": 75,
+  "apk_url": "https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.16/Valorum-2.0.0-beta.16.apk",
+  "sha256": "41be3a584488e3b9bc28bf0aa8cb132cb9e8962889f82019caf11591f91ccc33",
+  "size_bytes": 15881617,
+  "notes": "Beta 16 Preview: histórico expansível de cada caixa com conferência de valores e horários; combustível corrigido para despesa, com identificação de registros antigos classificados incorretamente; gráfico diário sem totais redundantes e resumo mensal abaixo dos caixas fechados. Versão de testes: faça backup e atualize sem desinstalar para preservar os dados."
 }
