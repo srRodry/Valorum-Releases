@@ -7,23 +7,23 @@
 Canal oficial de distribuição para Android · **Pixel Code**
 
 <!-- download:start -->
-<p align="center"><a href="https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.15/Valorum-2.0.0-beta.15.apk"><img src="https://raw.githubusercontent.com/srRodry/Valorum-Releases/main/assets/download-android.svg" width="300" alt="Baixar Valorum 2.0.0-beta.15 para Android"></a></p>
+<p align="center"><a href="https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.16/Valorum-2.0.0-beta.16.apk"><img src="https://raw.githubusercontent.com/srRodry/Valorum-Releases/main/assets/download-android.svg" width="300" alt="Baixar Valorum 2.0.0-beta.16 para Android"></a></p>
 
-<p align="center"><strong>2.0.0-beta.15</strong> · Beta de testes · Android 8.0 ou superior · 15.8 MB</p>
+<p align="center"><strong>2.0.0-beta.16</strong> · Beta de testes · Android 8.0 ou superior · 15.9 MB</p>
 
-<p align="center"><a href="https://github.com/srRodry/Valorum-Releases/releases/tag/v2.0.0-beta.15">Detalhes deste lançamento</a> · <a href="https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.15/Valorum-2.0.0-beta.15.apk">Download direto do APK</a></p>
+<p align="center"><a href="https://github.com/srRodry/Valorum-Releases/releases/tag/v2.0.0-beta.16">Detalhes deste lançamento</a> · <a href="https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.16/Valorum-2.0.0-beta.16.apk">Download direto do APK</a></p>
 
 Distribuição pelo GitHub. A publicação na Play Store está em preparação. O repositório e os downloads são públicos; compartilhar com um grupo pequeno não restringe o acesso.
 
-[Notas da versão](https://github.com/srRodry/Valorum-Releases/releases/tag/v2.0.0-beta.15) · [Verificação SHA-256](https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.15/SHA256SUMS.txt)
+[Notas da versão](https://github.com/srRodry/Valorum-Releases/releases/tag/v2.0.0-beta.16) · [Verificação SHA-256](https://github.com/srRodry/Valorum-Releases/releases/download/v2.0.0-beta.16/SHA256SUMS.txt)
 
 <details>
 <summary>Conferir a integridade do APK</summary>
 
-SHA-256 do arquivo `Valorum-2.0.0-beta.15.apk`:
+SHA-256 do arquivo `Valorum-2.0.0-beta.16.apk`:
 
 ```text
-8d8a8ed62060739006659546077e33169c8e6e4b586bb4246617515552b545b0
+41be3a584488e3b9bc28bf0aa8cb132cb9e8962889f82019caf11591f91ccc33
 ```
 
 </details>
